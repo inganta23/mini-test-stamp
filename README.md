@@ -1,4 +1,4 @@
-Source code ada pada file mini_test.js 
+Source code ada pada file ```mini_test.js```. 
 
 Pengerjaan dilakukan dengan menggunakan bahasa pemrograman Javascript dan Node JS sebagai runtime environtment-nya
 - Untuk menjalankan program silahkan ketik command ```pnpm add .``` (atau package manager yang lain) melalui terminal.
